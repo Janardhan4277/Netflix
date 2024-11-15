@@ -1,0 +1,48 @@
+body{
+    background-image:url(netfliximage.jpg);
+    background-size: cover;
+    padding-left: 120px;
+    padding-right:120px;
+}
+#header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+button{
+    width:90px;
+    height:35;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-size: 20;
+    border: none;
+}
+#jana{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100;
+}
+#jana button{
+    height: 50;
+    width: 220;
+    background-color: red;
+    color: white;
+    font-size: 22;
+    border-radius: 5px;
+    border: none;
+}
+input{
+    height: 50;
+    width: 320;
+    border-radius: 5px;
+    background: none;
+    color: white;
+}
+#jana h1{
+    margin-bottom: 8px;
+
+}
+#jana p{
+    margin-top: 5px;
+}
